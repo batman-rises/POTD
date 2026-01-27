@@ -9,8 +9,6 @@ public:
         for(int i=0;i<=n-k;i++){
             ans=min(ans,a[i+k-1]-a[i]);
         }
-
-
         return ans;
     }
 };
