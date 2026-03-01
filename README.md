@@ -1,7 +1,26 @@
-# GFG-S-POTD
+REPO FOR TRACKING LC PROBLEM OF THE DAY 
 
-will contain the solutions of GFG's Problem of the days... for next 2-3 months will just solve 1-2 POTD/week...
+This repository contains my solutions to LeetCode – Problem of the Day (POTD).
 
-1. Is Linked List Length Even?
-2. Find All Triplets with Zero Sum (faced a TLE, will solve it using hashmap someday)
-3. Rotate matrix by 90 degree
+I solve problems regularly to improve:
+
+Problem-solving skills
+
+Data Structures & Algorithms
+
+Contest readiness
+
+📂 Structure
+POTD/
+└── LEETCODE/
+
+Each file contains a clean and optimized solution for the respective problem.
+
+🛠 Language
+
+C++
+
+🎯 Goal
+
+Consistency > Intensity.
+Daily improvement towards placement & contest preparation.
