@@ -1,7 +1,13 @@
-# GFG-S-POTD
+#REPO FOR TRACKING LC PROBLEM OF THE DAY 
 
-will contain the solutions of GFG's Problem of the days... for next 2-3 months will just solve 1-2 POTD/week...
+I solve problems regularly to improve:
 
-1. Is Linked List Length Even?
-2. Find All Triplets with Zero Sum (faced a TLE, will solve it using hashmap someday)
-3. Rotate matrix by 90 degree
+Problem-solving skills
+Data Structures & Algorithms
+Contest readiness
+
+
+🎯 Goal
+
+Consistency > Intensity.
+Daily improvement towards placement & contest preparation.
